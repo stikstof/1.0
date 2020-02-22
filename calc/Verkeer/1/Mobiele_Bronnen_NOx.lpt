@@ -1,0 +1,94 @@
+
+ Project  : Mobiele_Bronnen_NOx
+ Substance: NOx
+ Date/time: 06-02-2020; 15:19:46
+ =============== OPS-version: W-4.5.2.1 31 jan 2018 ===============
+
+
+
+ Summary statistics for NOx
+
+ NOx considered as gaseous
+ Dispersion and deposition of secundary component NO3+HNO3 included
+ -------------------------------------------------------------------------------
+
+ average NOx concentration                       : 0.844E+00ug/m3 
+
+ average NO3+HNO3 concentration                  : 0.786E-01 ug/m3
+ eff. NOx > NO3+HNO3 chem. conv. rate            :     2.803 %/h
+
+ average NO3 concentration                       : 0.570E-01 ug/m3
+
+ average dry NOy deposition (as NO3+HNO3)        : 0.648E+01 mol/ha/y 
+ average dry NOx deposition (as NO3+HNO3)        : 0.551E+01 mol/ha/y 
+ average dry NO3+HNO3 deposition (as NO3+HNO3)   : 0.972E+00 mol/ha/y 
+ effective dry deposition velocity NOx           :     0.095 cm/s
+ effective dry deposition velocity NO3+HNO3      :     0.243 cm/s
+
+ average wet NOy deposition (as NO3+HNO3)        : 0.202E+01 mol/ha/y 
+ average wet NOx deposition (as NO3+HNO3)        : 0.577E+00 mol/ha/y 
+ average wet NO3+HNO3 deposition (as NO3+HNO3)   : 0.145E+01 mol/ha/y 
+ effective wet deposition rate NOx               :     0.209 %/h
+ effective wet deposition rate NO3+HNO3          :     4.838 %/h
+ annual precipitation amount                     :       811 mm
+
+ average NOy deposition (as NO3+HNO3)            : 0.850E+01 mol/ha/y 
+ -------------------------------------------------------------------------------
+
+
+ Project  : Mobiele_Bronnen_NOx
+ Substance: NOx
+ Date/time: 06-02-2020; 15:19:46
+ =============== OPS-version: W-4.5.2.1 31 jan 2018 ===============
+
+
+
+ Meteorological statistics used:
+ -------------------------------
+
+ climatological area  :  The Netherlands (interpolated meteo)
+ type of statistics   :  normal statistics
+ climatological period:  950101 - 050101  long term period              
+
+
+ Surface roughness (z0) data used:
+ ---------------------------------
+ Regionally differentiated z0 values determined by OPS
+
+
+ Files used by OPS:
+ ------------------
+ Control parameter file         : D:\projects\RIVM\RIVM_OPS\calc\Verkeer\Mobiele_Bronnen_NOx.ctr
+ Emission data file             : D:\projects\RIVM\RIVM_OPS\calc\Verkeer\Mobiele_Bronnen.brn
+ Diurnal variation file(s)
+   - pre-defined                : C:\Applics\OPS-Pro_2018\Data\dvepre.ops
+ Receptor data file             : C:\Applics\OPS-Pro_2018\Data\Receptor\centroids.rcp
+ Climatological data files      : C:\Applics\OPS-Pro_2018\Meteo\m095104c.001...006
+ Surface roughness file         : C:\Applics\OPS-Pro_2018\Data\z0_jr_250_lgn7.ops
+ Landuse file                   : C:\Applics\OPS-Pro_2018\Data\lu_250_lgn7.ops
+
+
+ Files produced by OPS:
+ ----------------------
+ Plotter output file            : D:\projects\RIVM\RIVM_OPS\calc\Verkeer\Mobiele_Bronnen_NOx.tab
+ Printer output file (this file): D:\projects\RIVM\RIVM_OPS\calc\Verkeer\Mobiele_Bronnen_NOx.lpt
+
+
+ Project  : Mobiele_Bronnen_NOx
+ Substance: NOx
+ Date/time: 06-02-2020; 15:19:46
+ =============== OPS-version: W-4.5.2.1 31 jan 2018 ===============
+
+
+
+ Total emission (in tonnes/year) per country / area:
+ ---------------------------------------------------
+
+ Applied correction factor: 1.0000
+
+ +---------------------------------------------------------------------+
+ | country |  total    | industry  | industry  | traffic   | space     |
+ | number  |           |  h > 35m  | h < 35m   |           | heating   |
+ |---------------------------------------------------------------------|
+ |   528   |     19353 |         0 |     19353 |         0 |         0 |
+ +---------------------------------------------------------------------+

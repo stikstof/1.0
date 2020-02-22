@@ -1,0 +1,159 @@
+﻿cat,A,B,C,D,E
+1100,Industrie,voedings- en genotmiddelen,,,
+1200,Industrie,olie raffinaderijen,,,
+1300,Industrie,chemische industrie,,,
+1400,Industrie,bouwmaterialen e.d.,,,
+1500,Industrie,basismetaalindustrie,Tata,wegen en opslag, Puntbronnen
+1700,Industrie,metaalbewerkingsindustrie,,,
+1800,Industrie,overige industrie,,,
+2100,Energie,Electriciteitscentrales,,,
+2210,Energie,winning en distributie energiedragers,op land,,
+2220,Energie,winning en distributie energiedragers,op zee,,
+3111,Verkeer,wegverkeer,personenauto's,snelwegen,
+3112,Verkeer,wegverkeer,personenauto's,Buiten bebouwde kom,
+3113,Verkeer,wegverkeer,personenauto's,Binnen bebouwde kom,
+3121,Verkeer,wegverkeer,bestelauto's,snelwegen,
+3122,Verkeer,wegverkeer,bestelauto's,Buiten bebouwde kom,
+3123,Verkeer,wegverkeer,bestelauto's,Binnen bebouwde kom,
+3131,Verkeer,wegverkeer,vrachtauto's en spec. voertuigen,snelwegen,
+3132,Verkeer,wegverkeer,vrachtauto's en spec. voertuigen,Buiten bebouwde kom,
+3133,Verkeer,wegverkeer,vrachtauto’s en spec. voertuigen,Binnen bebouwde kom,
+3141,Verkeer,wegverkeer,bussen,snelwegen,
+3142,Verkeer,wegverkeer,bussen,Buiten bebouwde kom,
+3143,Verkeer,wegverkeer,bussen,Binnen bebouwde kom,
+3151,Verkeer,wegverkeer,tweewielers,snelwegen,
+3152,Verkeer,wegverkeer,tweewielers,Buiten bebouwde kom,
+3153,Verkeer,wegverkeer,tweewielers,Binnen bebouwde kom,
+3211,Verkeer,wegverkeer,personenauto's,Bandenslijtage,snelwegen
+3212,Verkeer,wegverkeer,personenauto's,Bandenslijtage,Buiten bebouwde kom
+3213,Verkeer,wegverkeer,personenauto's,Bandenslijtage,Binnen bebouwde kom
+3221,Verkeer,wegverkeer,bestelauto's,Bandenslijtage,snelwegen
+3222,Verkeer,wegverkeer,bestelauto's,Bandenslijtage,Buiten bebouwde kom
+3223,Verkeer,wegverkeer,bestelauto's,Bandenslijtage,Binnen bebouwde kom
+3231,Verkeer,wegverkeer,vrachtauto's en spec. voertuigen,Bandenslijtage,snelwegen
+3232,Verkeer,wegverkeer,vrachtauto's en spec. voertuigen,Bandenslijtage,Buiten bebouwde kom
+3233,Verkeer,wegverkeer,vrachtauto’s en spec. voertuigen,Bandenslijtage,Binnen bebouwde kom
+3241,Verkeer,wegverkeer,bussen,Bandenslijtage,snelwegen
+3242,Verkeer,wegverkeer,bussen,Bandenslijtage,Buiten bebouwde kom
+3243,Verkeer,wegverkeer,bussen,Bandenslijtage,Binnen bebouwde kom
+3251,Verkeer,wegverkeer,tweewielers,Bandenslijtage,snelwegen
+3252,Verkeer,wegverkeer,tweewielers,Bandenslijtage,Buiten bebouwde kom
+3253,Verkeer,wegverkeer,tweewielers,Bandenslijtage,Binnen bebouwde kom
+3311,Verkeer,wegverkeer,personenauto's,Remslijtage,snelwegen
+3312,Verkeer,wegverkeer,personenauto's,Remslijtage,Buiten bebouwde kom
+3313,Verkeer,wegverkeer,personenauto's,Remslijtage,Binnen bebouwde kom
+3321,Verkeer,wegverkeer,bestelauto's,Remslijtage,snelwegen
+3322,Verkeer,wegverkeer,bestelauto's,Remslijtage,Buiten bebouwde kom
+3323,Verkeer,wegverkeer,bestelauto's,Remslijtage,Binnen bebouwde kom
+3331,Verkeer,wegverkeer,vrachtauto's en spec. voertuigen,Remslijtage,snelwegen
+3332,Verkeer,wegverkeer,vrachtauto's en spec. voertuigen,Remslijtage,Buiten bebouwde kom
+3333,Verkeer,wegverkeer,vrachtauto’s en spec. voertuigen,Remslijtage,Binnen bebouwde kom
+3341,Verkeer,wegverkeer,bussen,Remslijtage,snelwegen
+3342,Verkeer,wegverkeer,bussen,Remslijtage,Buiten bebouwde kom
+3343,Verkeer,wegverkeer,bussen,Remslijtage,Binnen bebouwde kom
+3351,Verkeer,wegverkeer,tweewielers,Remslijtage,snelwegen
+3352,Verkeer,wegverkeer,tweewielers,Remslijtage,Buiten bebouwde kom
+3353,Verkeer,wegverkeer,tweewielers,Remslijtage,Binnen bebouwde kom
+3411,Verkeer,wegverkeer,personenauto's,wegdekslijtage,snelwegen
+3412,Verkeer,wegverkeer,personenauto's,wegdekslijtage,Buiten bebouwde kom
+3413,Verkeer,wegverkeer,personenauto's,wegdekslijtage,Binnen bebouwde kom
+3421,Verkeer,wegverkeer,bestelauto's,wegdekslijtage,snelwegen
+3422,Verkeer,wegverkeer,bestelauto's,wegdekslijtage,Buiten bebouwde kom
+3423,Verkeer,wegverkeer,bestelauto's,wegdekslijtage,Binnen bebouwde kom
+3431,Verkeer,wegverkeer,vrachtauto's en spec. voertuigen,wegdekslijtage,snelwegen
+3432,Verkeer,wegverkeer,vrachtauto's en spec. voertuigen,wegdekslijtage,Buiten bebouwde kom
+3433,Verkeer,wegverkeer,vrachtauto’s en spec. voertuigen,wegdekslijtage,Binnen bebouwde kom
+3441,Verkeer,wegverkeer,bussen,wegdekslijtage,snelwegen
+3442,Verkeer,wegverkeer,bussen,wegdekslijtage,Buiten bebouwde kom
+3443,Verkeer,wegverkeer,bussen,wegdekslijtage,Binnen bebouwde kom
+3451,Verkeer,wegverkeer,tweewielers,wegdekslijtage,snelwegen
+3452,Verkeer,wegverkeer,tweewielers,wegdekslijtage,Buiten bebouwde kom
+3453,Verkeer,wegverkeer,tweewielers,wegdekslijtage,Binnen bebouwde kom
+3510,Verkeer,mobiele bronnen,landbouw,,
+3520,Verkeer,mobiele bronnen,bouw/Industrie/HDO,,
+3530,Verkeer,mobiele bronnen,consumenten,,
+3540,Verkeer,mobiele bronnen,containerterminals,,
+3611,Verkeer,luchtvaart,Verbranding,Schiphol,
+3612,Verkeer,luchtvaart,Verbranding,Eindhoven,
+3613,Verkeer,luchtvaart,Verbranding,Rotterdam,
+3614,Verkeer,luchtvaart,Verbranding,Maastricht,
+3615,Verkeer,luchtvaart,Verbranding,Eelde,
+3616,Verkeer,luchtvaart,Verbranding,Lelystad,
+3617,Verkeer,luchtvaart,Verbranding,Overig,
+3621,Verkeer,luchtvaart,Verbranding_platform,Schiphol,
+3622,Verkeer,luchtvaart,Verbranding_platform,Eindhoven,
+3623,Verkeer,luchtvaart,Verbranding_platform,Rotterdam,
+3624,Verkeer,luchtvaart,Verbranding_platform,Maastricht,
+3625,Verkeer,luchtvaart,Verbranding_platform,Eelde,
+3626,Verkeer,luchtvaart,Verbranding_platform,Lelystad,
+3627,Verkeer,luchtvaart,Verbranding_platform,Overig,
+3631,Verkeer,luchtvaart,Bandenslijtage,Schiphol,
+3632,Verkeer,luchtvaart,Bandenslijtage,Eindhoven,
+3633,Verkeer,luchtvaart,Bandenslijtage,Rotterdam,
+3634,Verkeer,luchtvaart,Bandenslijtage,Maastricht,
+3635,Verkeer,luchtvaart,Bandenslijtage,Eelde,
+3636,Verkeer,luchtvaart,Bandenslijtage,Lelystad,
+3637,Verkeer,luchtvaart,Bandenslijtage,Overig,
+3641,Verkeer,luchtvaart,Remslijtage,Schiphol,
+3642,Verkeer,luchtvaart,Remslijtage,Eindhoven,
+3643,Verkeer,luchtvaart,Remslijtage,Rotterdam,
+3644,Verkeer,luchtvaart,Remslijtage,Maastricht,
+3645,Verkeer,luchtvaart,Remslijtage,Eelde,
+3646,Verkeer,luchtvaart,Remslijtage,Lelystad,
+3647,Verkeer,luchtvaart,Remslijtage,Overig,
+3700,Verkeer,rail vervoer,,,
+3811,Verkeer,scheepvaart,Zeescheepvaart op NCP,Olietankers,
+3812,Verkeer,scheepvaart,Zeescheepvaart op NCP,Chemie/Gastankers,
+3813,Verkeer,scheepvaart,Zeescheepvaart op NCP,Bulkcarrier,
+3814,Verkeer,scheepvaart,Zeescheepvaart op NCP,Containerschepen,
+3815,Verkeer,scheepvaart,Zeescheepvaart op NCP,Conventioneel stukgoed,
+3816,Verkeer,scheepvaart,Zeescheepvaart op NCP,Roro lading/autoschepen,
+3817,Verkeer,scheepvaart,Zeescheepvaart op NCP,Koelschepen,
+3818,Verkeer,scheepvaart,Zeescheepvaart op NCP,Passagierschepen,
+3819,Verkeer,scheepvaart,Zeescheepvaart op NCP,Overige schepen,
+3821,Verkeer,Zeescheepvaart,Zeescheepvaart binnengaats varend,Olietankers,
+3822,Verkeer,Zeescheepvaart,Zeescheepvaart binnengaats varend,Chemie/Gastankers,
+3823,Verkeer,Zeescheepvaart,Zeescheepvaart binnengaats varend ,Bulkcarrier,
+3824,Verkeer,Zeescheepvaart,Zeescheepvaart binnengaats varend ,Containerschepen,
+3825,Verkeer,Zeescheepvaart,Zeescheepvaart binnengaats varend ,Conventioneel stukgoed,
+3826,Verkeer,Zeescheepvaart,Zeescheepvaart binnengaats varend ,Roro lading/autoschepen,
+3827,Verkeer,Zeescheepvaart,Zeescheepvaart binnengaats varend ,koelschepen,
+3828,Verkeer,Zeescheepvaart,Zeescheepvaart binnengaats varend ,Passagierschepen,
+3829,Verkeer,Zeescheepvaart,Zeescheepvaart binnengaats varend ,Overige schepen,
+3831,Verkeer,scheepvaart,Zeescheepvaart binnengaats voor anker,Olietankers,
+3832,Verkeer,scheepvaart,Zeescheepvaart binnengaats voor anker,Chemie/Gastankers,
+3833,Verkeer,scheepvaart,Zeescheepvaart binnengaats voor anker,Bulkcarrier,
+3834,Verkeer,scheepvaart,Zeescheepvaart binnengaats voor anker,Containerschepen,
+3835,Verkeer,scheepvaart,Zeescheepvaart binnengaats voor anker,Conventioneel stukgoed,
+3836,Verkeer,scheepvaart,Zeescheepvaart binnengaats voor anker,Roro lading/autoschepen,
+3837,Verkeer,scheepvaart,Zeescheepvaart binnengaats voor anker,Koelschepen,
+3838,Verkeer,scheepvaart,Zeescheepvaart binnengaats voor anker,Passagierschepen,
+3839,Verkeer,scheepvaart,Zeescheepvaart binnengaats voor anker,Overige schepen,
+3850,Verkeer,scheepvaart,visserij (op NCP en binnenwateren),,
+3861,Verkeer,scheepvaart,Binnenvaart,Int.Vrachtvervoer,
+3862,Verkeer,scheepvaart,Binnenvaart,Int.Vrachtvervoer-Duwvaart,
+3863,Verkeer,scheepvaart,Binnenvaart,Nat.Vrachtvervoer,
+3864,Verkeer,scheepvaart,Binnenvaart,Nat.Vrachtvervoer-Duwvaart,
+3865,Verkeer,scheepvaart,Binnenvaart,Passagiersboten,
+3866,Verkeer,scheepvaart,Binnenvaart,Ontgassing laadruim,
+3880,Verkeer,scheepvaart,recreatievaart,,
+4110,Landbouw,veehouderij,Stallen,,
+4111,Landbouw,veehouderij,Stallen,melkvee,
+4112,Landbouw,veehouderij,Stallen,Overig vee,
+4120,Landbouw,veehouderij,Opslag,,
+4130,Landbouw,veehouderij,Beweiding,,
+4140,Landbouw,veehouderij,Mestaanwending,,
+4200,Landbouw,aanwending kunstmest,kunstmestaanwending/ gewasbeschermingsmiddelen en oogsten,,
+4310,Landbouw,vuurhaarden,Overig,,
+4320,Landbouw,vuurhaarden,Glastuinbouw,,
+4400,Landbouw,Emissie uit landbouwgewassen (o.a. afrijping) en uit gewasresten,,,
+4600,Landbouw,overig,,,
+5000,Afvalverwerking,,,,
+6100,Handel,diensten en overheid,RWZI's,,
+6200,Handel,diensten en overheid,winning en distributie drinkwater,,
+6300,Handel,diensten en overheid,opslag en ' handling' ,,
+6400,Handel,diensten en overheid,overig,,
+7000,Bouw,,,,
+8110,Consumenten,vuurhaarden,Hoofdverwarming/koken/warmwater,,
+8120,Consumenten,vuurhaarden,Sfeerverwarming,,
+8200,Consumenten,overig,,,

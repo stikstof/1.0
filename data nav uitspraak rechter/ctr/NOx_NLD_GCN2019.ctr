@@ -1,0 +1,48 @@
+*-----------------------directory layer---------------------------------*
+DATADIR        \\alt.rivm.nl\data\OPS\Data\Configuraties\Oper\GCN2019\data\
+*-----------------------identification layer----------------------------*
+PROJECT        GCN2019
+RUNID          NOx_NLD_GCN2019_16_18
+YEAR           2017
+*-----------------------substance layer---------------------------------*
+COMPCODE       2
+COMPNAME       NOx (nitrogen oxides) - gas.
+MOLWEIGHT      46.0
+PHASE          1
+LOSS           1
+DDSPECTYPE     
+DDPARVALUE     
+WDSPECTYPE     
+WDPARVALUE     
+DIFFCOEFF      .0
+WASHOUT        0
+CONVRATE       
+LDCONVRATE     
+*-----------------------emission layer----------------------------------*
+EMFILE         \\alt.rivm.nl\data\OPS\Data\Input\Bronbestanden\NL\NOx\2016\GCN2019\NOx_16_nl.brn
+USDVEFILE      
+USPSDFILE      
+EMCORFAC       1.0
+TARGETGROUP    0
+COUNTRY        0
+*-----------------------receptor layer----------------------------------*
+RECEPTYPE      3
+XCENTER        
+YCENTER        
+NCOLS          
+NROWS          
+RESO           1000
+OUTER          
+RCPFILE        \\alt.rivm.nl\data\OPS\Data\Configuraties\Oper\GCN2019\receptors\NL_n2k_1000.rcp
+*-----------------------meteo & surface char layer----------------------*
+ROUGHNESS      0.0
+Z0FILE         \\alt.rivm.nl\data\OPS\Data\Configuraties\Oper\GCN2019\data\z0_jr_1000_lgn7.ops
+LUFILE         \\alt.rivm.nl\data\OPS\Data\Configuraties\Oper\GCN2019\data\lu_1000_lgn7.ops
+METEOTYPE      0
+MTFILE         \\alt.rivm.nl\data\OPS\Data\Configuraties\Oper\GCN2019\meteo\a018118c.*
+*-----------------------output layer------------------------------------*
+DEPUNIT        3
+PLTFILE        S:\GCN\Productie\GCN2019\berekeningen\OPS_output\diagnose\NLD\NOx\NOx_NLD_GCN2019_16_18.plt
+PRNFILE        S:\GCN\Productie\GCN2019\berekeningen\OPS_output\diagnose\NLD\NOx\NOx_NLD_GCN2019_16_18.lpt
+INCLUDE        0
+GUIMADE        1

@@ -1,0 +1,20 @@
+SELECT 
+ST_WITHIN(vw_emissies_sectoren.geom, vw_natura2000_buff_1000m.st_buffer) as inside
+,snr
+,x
+,y
+,q
+,hc
+,h
+,r
+,s
+,dv
+,ps
+,component
+,sector
+,"A"
+FROM vw_emissies_sectoren, vw_natura2000_buff_1000m
+where sector = 'Verkeer'
+AND "A" = 'wegverkeer'
+AND ST_WITHIN(vw_emissies_sectoren.geom, vw_natura2000_buff_1000m.st_buffer) IS TRUE
+limit 10;

@@ -1,0 +1,92 @@
+
+ Project  : Afvalverwerking_NH3
+ Substance: NH3
+ Date/time: 08-02-2020; 16:49:29
+ =============== OPS-version: W-4.5.2.1 31 jan 2018 ===============
+
+
+
+ Summary statistics for NH3
+
+ NH3 considered as gaseous
+ Dispersion and deposition of secundary component NH4 included
+ -------------------------------------------------------------------------------
+
+ average NH3 concentration                       : 0.484E-01ug/m3 
+
+ average NH4 concentration                       : 0.132E-01 ug/m3
+ eff. NH3 > NH4 chem. conv. rate                 :     5.011 %/h
+
+ average dry NHx deposition (as NH4)             : 0.496E+01 mol/ha/y 
+ average dry NH3 deposition (as NH4)             : 0.471E+01 mol/ha/y 
+ average dry NH4 deposition (as NH4)             : 0.250E+00 mol/ha/y 
+ effective dry deposition velocity NH3           :     0.524 cm/s
+ effective dry deposition velocity NH4           :     0.108 cm/s
+
+ average wet NHx deposition (as NH4)             : 0.719E+01 mol/ha/y 
+ average wet NH3 deposition (as NH4)             : 0.617E+01 mol/ha/y 
+ average wet NH4 deposition (as NH4)             : 0.103E+01 mol/ha/y 
+ effective wet deposition rate NH3               :     5.076 %/h
+ effective wet deposition rate NH4               :     4.266 %/h
+ annual precipitation amount                     :       624 mm
+
+ average NHx deposition (as NH4)                 : 0.122E+02 mol/ha/y 
+ -------------------------------------------------------------------------------
+
+
+ Project  : Afvalverwerking_NH3
+ Substance: NH3
+ Date/time: 08-02-2020; 16:49:29
+ =============== OPS-version: W-4.5.2.1 31 jan 2018 ===============
+
+
+
+ Meteorological statistics used:
+ -------------------------------
+
+ climatological area  :  The Netherlands (interpolated meteo)
+ type of statistics   :  normal statistics
+ climatological period:  180101 - 190101  year period                   
+
+
+ Surface roughness (z0) data used:
+ ---------------------------------
+ Regionally differentiated z0 values determined by OPS
+
+
+ Files used by OPS:
+ ------------------
+ Control parameter file         : .\NH3.ctr
+ Emission data file             : D:\projects\RIVM\RIVM_OPS\calc\Afvalverwerking\emissies.brn
+ Diurnal variation file(s)
+   - pre-defined                : C:\Applics\OPS-Pro_2018\Data\dvepre.ops
+ Receptor data file             : C:\Applics\OPS-Pro_2018\Data\Receptor\centroids.rcp
+ Climatological data files      : C:\Applics\OPS-Pro_2018\Meteo\a018118c.001...006
+ Surface roughness file         : C:\Applics\OPS-Pro_2018\Data\z0_jr_1000_lgn7.ops
+ Landuse file                   : C:\Applics\OPS-Pro_2018\Data\lu_1000_lgn7.ops
+
+
+ Files produced by OPS:
+ ----------------------
+ Plotter output file            : D:\projects\RIVM\RIVM_OPS\calc\Afvalverwerking\NH3_Deposition.tab
+ Printer output file (this file): D:\projects\RIVM\RIVM_OPS\calc\Afvalverwerking\NH3_Deposition.lpt
+
+
+ Project  : Afvalverwerking_NH3
+ Substance: NH3
+ Date/time: 08-02-2020; 16:49:29
+ =============== OPS-version: W-4.5.2.1 31 jan 2018 ===============
+
+
+
+ Total emission (in tonnes/year) per country / area:
+ ---------------------------------------------------
+
+ Applied correction factor: 1.0000
+
+ +---------------------------------------------------------------------+
+ | country |  total    | industry  | industry  | traffic   | space     |
+ | number  |           |  h > 35m  | h < 35m   |           | heating   |
+ |---------------------------------------------------------------------|
+ |   528   |      4416 |      3505 |       910 |         0 |         0 |
+ +---------------------------------------------------------------------+

@@ -1,0 +1,30 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 1079-2430
+
+ Directory of d:\projects\RIVM\RIVM_OPS\calc
+
+02/19/2020  11:36 PM    <DIR>          .
+02/19/2020  11:36 PM    <DIR>          ..
+02/15/2020  11:07 PM    <DIR>          Afvalverwerking - emissie / deposities Sector afvalverwerking / rwzi / etc
+02/12/2020  02:49 AM    <DIR>          Alles / alles bij elkaar in 1x zoals vanuit de bron bestanden zonder onderverdeling per sector
+02/15/2020  11:29 PM    <DIR>          Bouw / sector met emissie en deposities
+02/19/2020  10:31 PM    <DIR>          Buitenland - emissie deposities vanuit buitenland op de natura 2000's
+02/15/2020  11:28 PM    <DIR>          Consumenten - emissie deposities vanuit consumenten 
+02/19/2020  11:24 PM                 0 dit is de 2e run met mapjes per sector voor bronnen en resultaten
+02/15/2020  11:36 PM    <DIR>          Energie - emissie + deposities vanuit Energie sector
+02/16/2020  12:30 AM    <DIR>          Handel - emissie + deposities van handel, dienstverlening en overheid 
+02/16/2020  12:58 AM    <DIR>          Industrie - idem
+02/16/2020  02:04 AM    <DIR>          Landbouw - idem
+02/13/2020  06:25 PM             9,128 map.qgz - QGIS project voor weergave van deposities / emissies. Werkt waarschijnlijk niet goed (meer) ivm databases
+02/19/2020  11:36 PM                 0 mapjes
+02/15/2020  11:44 AM             9,501 sectoren.csv - sectoren vanuit GCN
+02/19/2020  11:05 PM    <DIR>          tests - mapje met tests op landbouw emissie reductie tot 0 g/s met buffer van 1000m rondom natura 2000 test gebied
+02/19/2020  11:26 PM         4,768,147 total_deposition_sectors.xlsx - excell file met alle resultaten
+02/16/2020  02:09 AM    <DIR>          Verkeer - sector verkeer emissie deposities
+02/16/2020  02:00 AM    <DIR>          Zee - sector zeebronnen met emissie deposities
+02/19/2020  11:22 PM    <DIR>          _1e run resultaten - map met 1e run OPS berekeningen. 
+02/19/2020  11:07 PM    <DIR>          _controlfiles - map met 'default' control files als sjabloon voor de control files voor run in OPS
+02/19/2020  11:07 PM    <DIR>          _depositiepoints - map met aanmaken van depositiepunten met hexagonen, centroiden en definieve centroids.rcp file voor receptor in OPS
+02/19/2020  10:31 PM    <DIR>          _mapLayers - layers styles voor gebruik in QGIS. 
+               5 File(s)      4,786,776 bytes
+              18 Dir(s)   2,085,011,456 bytes free

@@ -1,0 +1,48 @@
+*-----------------------directory layer---------------------------------*
+DATADIR        C:\Applics\OPS-Pro_2018\Data\
+*-----------------------identification layer----------------------------*
+PROJECT        #sector#_NOx
+RUNID          #sector#_NOx
+YEAR           2017
+*-----------------------substance layer---------------------------------*
+COMPCODE       2
+COMPNAME       NOx (nitrogen oxides) - gas.
+MOLWEIGHT      46.0
+PHASE          1
+LOSS           1
+DDSPECTYPE     
+DDPARVALUE     
+WDSPECTYPE     
+WDPARVALUE     
+DIFFCOEFF      .0
+WASHOUT        0
+CONVRATE       
+LDCONVRATE     
+*-----------------------emission layer----------------------------------*
+EMFILE         D:\projects\RIVM\RIVM_OPS\calc\#sector#\emissies.brn
+USDVEFILE      
+USPSDFILE      
+EMCORFAC       1.0
+TARGETGROUP    0
+COUNTRY        0
+*-----------------------receptor layer----------------------------------*
+RECEPTYPE      2
+XCENTER        
+YCENTER        
+NCOLS          
+NROWS          
+RESO           
+OUTER          
+RCPFILE        C:\Applics\OPS-Pro_2018\Data\Receptor\centroids.rcp
+*-----------------------meteo & surface char layer----------------------*
+ROUGHNESS      0.0
+Z0FILE         c:\Applics\OPS-Pro_2018\Data\z0_jr_1000_lgn7.ops
+LUFILE         c:\Applics\OPS-Pro_2018\Data\lu_1000_lgn7.ops
+METEOTYPE      0
+MTFILE         c:\Applics\OPS-Pro_2018\Meteo\a018118c.*
+*-----------------------output layer------------------------------------*
+DEPUNIT        3
+PLTFILE        D:\projects\RIVM\RIVM_OPS\calc\#sector#\NOx_Deposition.tab
+PRNFILE        D:\projects\RIVM\RIVM_OPS\calc\#sector#\NOx_Deposition.lpt
+INCLUDE        0
+GUIMADE        1

@@ -1,0 +1,48 @@
+*-----------------------directory layer---------------------------------*
+DATADIR        C:\Applics\OPS-Pro_2018\Data\
+*-----------------------identification layer----------------------------*
+PROJECT        #sector#_NH3
+RUNID          #sector#_NH3
+YEAR           2017
+*-----------------------substance layer---------------------------------*
+COMPCODE       3
+COMPNAME       NH3 (ammonium) - gas.
+MOLWEIGHT      17.0
+PHASE          1
+LOSS           1
+DDSPECTYPE     
+DDPARVALUE     
+WDSPECTYPE     
+WDPARVALUE     
+DIFFCOEFF      .240
+WASHOUT        0
+CONVRATE       
+LDCONVRATE     
+*-----------------------emission layer----------------------------------*
+EMFILE         D:\projects\RIVM\RIVM_OPS\calc\#sector#\emissies.brn
+USDVEFILE      
+USPSDFILE      
+EMCORFAC       1.0
+TARGETGROUP    0
+COUNTRY        0
+*-----------------------receptor layer----------------------------------*
+RECEPTYPE      2
+XCENTER        
+YCENTER        
+NCOLS          
+NROWS          
+RESO           
+OUTER          
+RCPFILE        C:\Applics\OPS-Pro_2018\Data\Receptor\centroids.rcp
+*-----------------------meteo & surface char layer----------------------*
+ROUGHNESS      0.0
+Z0FILE         C:\Applics\OPS-Pro_2018\Data\z0_jr_1000_lgn7.ops
+LUFILE         C:\Applics\OPS-Pro_2018\Data\lu_1000_lgn7.ops
+METEOTYPE      0
+MTFILE         C:\Applics\OPS-Pro_2018\Meteo\a018118c.*
+*-----------------------output layer------------------------------------*
+DEPUNIT        3
+PLTFILE        D:\projects\RIVM\RIVM_OPS\calc\#sector#\NH3_Deposition.tab
+PRNFILE        D:\projects\RIVM\RIVM_OPS\calc\#sector#\NH3_Deposition.lpt
+INCLUDE        0
+GUIMADE        1
